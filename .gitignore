@@ -1,0 +1,5 @@
+.stack-work/
+untitled.cabal
+*~
+# Project exclude paths
+/out/
